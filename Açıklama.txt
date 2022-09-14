@@ -1,0 +1,14 @@
+
+
+
+      /*
+      1- ) Lambda (Functional Programming) Java 8 ile kullanilmaya baslamistir.
+
+      2- ) Functional Programming'de "Ne yapilacak" (What to do) üzerine yogunlaşılır.
+           Structured Programming "Nasıl yapılacak" (How to do) üzerine yoğunlaşılır.
+
+      3- ) Functional Programming Arrays Collections ile kullanilir.
+
+      4- ) "entryset() methods ile Map, Set'e dönüştürülerek Functional Programming'de
+            kullanilir.
+       */
